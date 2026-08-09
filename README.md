@@ -22,35 +22,18 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## SaaS/Hosted Platforms
 
-- **[LeagueApps](https://leagueapps.com/)**  
-  Comprehensive sports league and tournament management platform covering registration, scheduling, payments, communication, and event operations.
-
-- **[GotSport](https://www.gotsport.com/)**  
-  Soccer-focused tournament and competition management system with scheduling, referee assignment, brackets, and results tracking.
-
-- **[Tourney Machine](https://www.tourneymachine.com/)**  
-  Popular tournament operations platform specializing in brackets, live scoring, scheduling, and public event pages.
-
-- **[SportsEngine](https://www.sportsengine.com/)**  
-  Broad sports management suite from NBC Sports that includes tournament and league tools for registration, scheduling, and team communication.
-
-- **[PlayHQ](https://www.playhq.com/)**  
-  Competition management platform widely used in Australia and beyond for fixtures, results, ladders, and club administration.
-
-- **[BracketHQ](https://brackethq.com/)**  
-  Modern tournament and bracket management tool focused on easy setup, live updates, and participant experience.
-
-- **[TeamSnap Tournaments](https://www.teamsnap.com/)**  
-  Tournament features within the TeamSnap ecosystem for team registration, scheduling, and event coordination.
-
-- **[LeagueLobster](https://www.leaguelobster.com/)**  
-  Automated league and tournament scheduling software that generates fixtures and handles complex constraints.
-
-- **[EventConnect](https://www.eventconnect.io/)**  
-  Event and tournament management platform supporting registration, scheduling, and multi-event operations.
-
-- **[Toornament](https://www.toornament.com/)**  
-  Leading esports and competitive tournament platform with deep bracket, league, participant, and white-label capabilities.
+| Platform | Description | Pricing | Free Tier Limit |
+| :--- | :--- | :--- | :--- |
+| **[LeagueApps](https://leagueapps.com/)** | Comprehensive sports league and tournament management platform covering registration, scheduling, payments, communication, and event operations. | Starts with $495 one-time setup fee + 3.9% transaction fee | LeagueApps Play app is free; no free trial for main platform |
+| **[GotSport](https://www.gotsport.com/)** | Soccer-focused tournament and competition management system with scheduling, referee assignment, brackets, and results tracking. | Starts at $4 per player/year | GotSport Live viewers get 2 months free; no free trial for main platform |
+| **[Tourney Machine](https://www.tourneymachine.com/)** | Popular tournament operations platform specializing in brackets, live scoring, scheduling, and public event pages. | Starts at approximately $6 per team | Mobile app is free (ad-supported); no organizer free trial |
+| **[SportsEngine](https://www.sportsengine.com/)** | Broad sports management suite from NBC Sports that includes tournament and league tools for registration, scheduling, and team communication. | Starts at $79/month (Express Plan) | Free trial available (duration varies based on custom needs) |
+| **[PlayHQ](https://www.playhq.com/)** | Competition management platform widely used in Australia and beyond for fixtures, results, ladders, and club administration. | 1.99% + $0.30 transaction fee (custom scaling base fee) | Unlimited free trial for website builder until published |
+| **[BracketHQ](https://brackethq.com/)** | Modern tournament and bracket management tool focused on easy setup, live updates, and participant experience. | Starts at $4/month (Pro Plan) | Free forever plan for up to 32 participants |
+| **[TeamSnap Tournaments](https://www.teamsnap.com/)** | Tournament features within the TeamSnap ecosystem for team registration, scheduling, and event coordination. | Starts at $22.99/month per team (Premium plan) | 7-day free trial for new teams |
+| **[LeagueLobster](https://www.leaguelobster.com/)** | Automated league and tournament scheduling software that generates fixtures and handles complex constraints. | Starts at $9.95/month | Free forever plan for up to 50 games per month |
+| **[EventConnect](https://www.eventconnect.io/)** | Event and tournament management platform supporting registration, scheduling, and multi-event operations. | Starts at $27.99/month (Club Plan) | Free-to-start Lite plan for up to 50 attendees |
+| **[Toornament](https://www.toornament.com/)** | Leading esports and competitive tournament platform with deep bracket, league, participant, and white-label capabilities. | Starts at 19€ per tournament (Boost Plan) | Free forever plan for up to 32 participants |
 
 ## Open-Source GitHub Projects
 
