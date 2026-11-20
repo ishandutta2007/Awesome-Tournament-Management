@@ -45,6 +45,7 @@ Welcome to the ultimate resource for tournament management! This SEO-friendly re
 | **[LeagueLobster](https://www.leaguelobster.com/)** | Automated league and tournament scheduling software that generates fixtures and handles complex constraints. | Starts at $9.95/month | Free forever plan for up to 50 games per month | < $1M Revenue |
 | **[BracketHQ](https://brackethq.com/)** | Modern tournament and bracket management tool focused on easy setup, live updates, and participant experience. | Starts at $4/month (Pro Plan) | Free forever plan for up to 32 participants | < $1M Revenue |
 | **[AutoBracketMaker](https://www.autobracketmaker.com/en?utm_source=partner-awesome-tournament-management&utm_medium=referral&utm_campaign=tournament-tools-202609&utm_content=listing-01)** | Browser-based tournament tool supporting single and double elimination, round robin, and group stages, with score entry, venue assignments, and public sharing. | One-time packs: $4.99/1 tournament, $9.99/3, or $19.99/10 | No-account previews up to 8 players; 2 saved single/double-elimination tournaments up to 16 players | Independent / undisclosed |
+| **[ThePickleHub](https://www.thepicklehub.net/tools)** | Pickleball tournament platform with a free online bracket generator, live results, a court directory, and news for organizers and players. | Free | Bracket generator free to use | Independent / undisclosed |
 
 ## 💻 Open-Source GitHub Projects
 
